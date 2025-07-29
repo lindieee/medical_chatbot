@@ -1,0 +1,11 @@
+[theme]
+base="light"
+primaryColor="#2f6d80"     # button color sidebar
+backgroundColor="#e1e7e0"
+textColor="#2b4560"
+secondaryBackgroundColor="floralwhite"
+baseRadius="full"
+
+[theme.sidebar]
+backgroundColor="#6aa4b0"
+baseRadius="none"
