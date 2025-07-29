@@ -9,6 +9,7 @@
 - find and deal with off-topic (non-medical) user queries: system prompt + similarity threshold
 - open source LLM (Ollama model)
 - use LLM in offline mode
+- evaluation approaches
 
 
 ## Installation (Tested on macOS)
